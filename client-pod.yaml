@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: client
-    image: 1733116199/multi-client
+    image: 1733116199/node-hello
     resources:
       limits:
         memory: "128Mi"
